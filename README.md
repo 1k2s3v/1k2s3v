@@ -5,9 +5,9 @@ For mo information about current skills you could find me here https://www.linke
 
 Interested in:
 
-
+Python,
 AWS,
 Flask, 
 Django, 
+Telegram bot developing,
 Pandas, Numpy, Machine Learning,
-BOT DEVELOPING,
