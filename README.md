@@ -18,12 +18,12 @@ Send logs to database and  trigger processing lambda functions
 use their geolocation to find the nearest object, get a post of another member by city, category, and other filters.
 
 Interested in:
-🟩Python,
-🟩AWS,
-🟩Flask, 
-🟩Django, 
-🟩Telegram bot developing,
-🟩Machine Learning,
+Python,
+AWS,
+Flask, 
+Django, 
+Telegram bot developing,
+Machine Learning,
     
 
 For more information about current skills you could find me here https://www.linkedin.com/in/sviatoslavkalina/
