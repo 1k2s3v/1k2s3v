@@ -1,7 +1,7 @@
 ### Hi there 👋
 The projects which I was a member: 
 
-🟢Crypto-trading bot:
+🟢Crypto-trading bot:\n
 💬1The bot connects to Binance in real-time receive trading data about currency pairs 
 that were previously had chosen by the customer,
 2. Data is analyzed by one(chosen by the client) from 5 prepared strategies and sends
